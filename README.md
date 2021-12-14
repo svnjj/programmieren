@@ -10,4 +10,4 @@ Das Programm rechnet den BMI aus. Der Benutzer kann sein Gewicht und seine Grös
 - BMI erleichtert internationalen Vergleich mit anderen Ländern, weil er als Referenzwert verwendet wird
 
 ## Reflexion:
-- 
+Ich habe verschiedene Befehle gelernt und wie man diese in Programmen anwendet. Ich nehme mit wie simpel man mit gewissen Befehlen in Phyton programmieren kann. Ich habe meine Geduld trainiert.
